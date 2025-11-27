@@ -1,9 +1,9 @@
 <h1 align="center">✨ Hello, This Side <strong>Aparana Varshney</strong> ✨</h1>
 
 <p align="center">
-💻 <strong>Full-Stack Developer | Python • Java • C/C++ • JavaScript | AI Enthusiast</strong> <br>
-🚀 <i>Coding • Creating • Innovating • Learning Everyday</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2200&pause=1200&color=F8D210&center=true&vCenter=true&width=900&lines=Hello+This+Side+Aparana+Varshney;Full+Stack+Developer+%F0%9F%9A%80;Coding+%7C+Logic+%7C+Creativity;Welcome+To+My+GitHub+Profile+%F0%9F%8C%9F">
 </p>
+
 
 ---
 
