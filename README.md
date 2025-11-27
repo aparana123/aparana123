@@ -9,8 +9,9 @@
 
 ## 🔥 Typing Animation  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Hello+This+Side+Aparana+Varshney+👋;Passionate+Full+Stack+Developer+🚀;Python+|+Java+|+C+|+C%2B%2B+|+JavaScript;AI+%26+Machine+Learning+Learner+🤖;Always+Building+%26+Always+Learning%21">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2800&pause=1200&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello+This+Side+Aparana+Varshney;Frontend+%26+Backend+Developer;Python+%7C+Java+%7C+JavaScript;AI+Enthusiast+%F0%9F%94%A5">
 </p>
+
 
 ---
 
