@@ -1,93 +1,132 @@
-<h1 align="center">Hi, I'm Aparana 👋</h1>
+<h1 align="center">✨ नमस्ते, I'm <strong>Aparana</strong>! ✨</h1>
 
 <p align="center">
-  <b>Web Developer | Programmer | AI Enthusiast</b>
+💻 <strong>Full-Stack Developer | Python • Java • C/C++ • JavaScript | AI Learner</strong> <br>
+🚀 Passionate About Coding, Problem Solving, and Building Real Projects
+</p>
+
+---
+
+## 🔥 Typing Animation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Aparana+👋;Full+Stack+Developer+In+Progress;Python+|+Java+|+C+|+C++;Frontend+%2B+Backend+Developer;Always+Learning+New+Stuff!">
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate developer with strong skills in **frontend, backend, programming languages, databases, AI and automation**.  
-I love creating responsive websites, smart applications, and solving real-world problems through code.
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
 
+- 👩‍💻 Aspiring **Full-Stack Developer**
+- 🌐 Building projects using **HTML, CSS, JavaScript, Python, Java & PHP**
+- 🧠 Learning **AI, Flask, Node.js, SQL, APIs & Advanced Programming**
+- 🎯 Focus: Clean Code • Problem Solving • Logic Building  
+- 🔥 Goal: Become a Professional Developer + Build Real-World Projects
 
 ---
 
-## 🛠️ Skills & Technologies
+# 💻 Tech Stack
 
-### 🌐 Web Development
-- **HTML, CSS, JavaScript**
-- **WordPress, Wix, Duda**
-- **PHP**
-- **Flask**
-- **Node.js**
-- **API Development**
-
-### 💻 Programming Languages
-- **Python**![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-
-- **Java**![Java](https://img.shields.io/badge/Java-orange?logo=java)
-
-- **C**![C](https://img.shields.io/badge/C-00599C?logo=c)
-
-- **C++**![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-
-
-### 📚 Frameworks & GUI
-- **Flask**![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-
-- **Java Swing**![Swing](https://img.shields.io/badge/Java%20Swing-007396)
-
-- **AWT**![AWT](https://img.shields.io/badge/AWT-007396)
-
-
-### 🗄️ Database
-- **MySQL / SQL**![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-025E8C)
-
-
-### 🤖 Artificial Intelligence
-- Basic AI concepts, automation, ML-related work
-- ![AI](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD)
-
-
----
-
-## 📌 Currently Working On
-- Improving my **full-stack development** skills  
-- Exploring **AI + Web integration**  
-- Building cool mini projects in **Python, Java & JavaScript**
-
----
-
-## 📫 Connect With Me
-Feel free to explore my repositories and projects.  
-⭐ **Don’t forget to star my projects if you like them!**
-
----
-
-## ✨ Fun Fact
-I love learning new tools and creating unique digital experiences!
-### 🔥 Skills
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+### 🖥 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![API](https://img.shields.io/badge/REST%20API-blue)
+
+### 🗄 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-025E8C)
+
+### 🎨 UI/Website Builders  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress)
 ![Wix](https://img.shields.io/badge/Wix-000?logo=wix)
 ![Duda](https://img.shields.io/badge/Duda-FF5500?logo=duda)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+
+### 🤖 Artificial Intelligence  
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD)
 
+---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=radical" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=radical" height="170">
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aparana123&theme=radical&no-frame=true&margin-w=15">
+</p>
+
+---
+
+# 🔥 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aparana123&theme=react-dark">
+</p>
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" >
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| No. | Project Name | Description | Tech Stack | Link |
+|-----|--------------|-------------|------------|------|
+| 1️⃣ | **Amazon UI Clone** | Frontend clone of Amazon | HTML, CSS, JS | 🔗 GitHub |
+| 2️⃣ | **Python Projects** | Multiple Python mini tools | Python | 🔗 GitHub |
+| 3️⃣ | **Restaurant Billing System** | GUI Billing System | Java Swing/AWT | 🔗 GitHub |
+| 4️⃣ | **Weather App** | Weather finder using API | JS | 🔗 GitHub |
+| 5️⃣ | **Notes Collection** | Python, SQL, JS Notes | All Languages | 🔗 GitHub |
+
+---
+
+# 📚 Notes & Resources
+
+| Topic | Link |
+|-------|------|
+| 🐍 Python Notes | 🔗 Link |
+| 🌐 HTML Notes | 🔗 Link |
+| 🎨 CSS Notes | 🔗 Link |
+| ⚙️ C/C++ Notes | 🔗 Link |
+| 🌟 Java Notes | 🔗 Link |
+| 🐬 SQL Notes | 🔗 Link |
+
+---
+
+# 🎯 Strengths
+- ✔️ Clean & Readable Code
+- ✔️ Strong Logic Building
+- ✔️ Quick Learner
+- ✔️ Passionate About Coding
+- ✔️ UI/UX Understanding
+
+---
+
+# 📱 Connect With Me
+
+<p align="center">
+<a href="https://github.com/aparana123"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
+</p>
+
+---
+
+<p align="center"><b>Made with ❤️ by Aparana</b></p>
