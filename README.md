@@ -9,6 +9,12 @@
 ## 🚀 About Me
 I'm a passionate developer with strong skills in **frontend, backend, programming languages, databases, AI and automation**.  
 I love creating responsive websites, smart applications, and solving real-world problems through code.
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+
 
 ---
 
