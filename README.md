@@ -29,21 +29,32 @@ I love creating responsive websites, smart applications, and solving real-world 
 - **API Development**
 
 ### 💻 Programming Languages
-- **Python**
-- **Java**
-- **C**
-- **C++**
+- **Python**![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+
+- **Java**![Java](https://img.shields.io/badge/Java-orange?logo=java)
+
+- **C**![C](https://img.shields.io/badge/C-00599C?logo=c)
+
+- **C++**![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+
 
 ### 📚 Frameworks & GUI
-- **Flask**
-- **Java Swing**
-- **AWT**
+- **Flask**![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+
+- **Java Swing**![Swing](https://img.shields.io/badge/Java%20Swing-007396)
+
+- **AWT**![AWT](https://img.shields.io/badge/AWT-007396)
+
 
 ### 🗄️ Database
-- **MySQL / SQL**
+- **MySQL / SQL**![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-025E8C)
+
 
 ### 🤖 Artificial Intelligence
 - Basic AI concepts, automation, ML-related work
+- ![AI](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD)
+
 
 ---
 
@@ -62,4 +73,21 @@ Feel free to explore my repositories and projects.
 
 ## ✨ Fun Fact
 I love learning new tools and creating unique digital experiences!
+### 🔥 Skills
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C](https://img.shields.io/badge/C-00599C?logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress)
+![Wix](https://img.shields.io/badge/Wix-000?logo=wix)
+![Duda](https://img.shields.io/badge/Duda-FF5500?logo=duda)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD)
+
 
