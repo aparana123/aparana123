@@ -1,5 +1,13 @@
-<!-- HEADER SECTION -->
+<!-- HEADER SECTION WITH PROFILE PIC -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00f7ff">Aparana Varshaney</span></h1>
+
+<p align="center">
+  <!-- PROFILE PIC ADDED HERE -->
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/profile.jpg" 
+       alt="Profile Picture"
+       width="160" 
+       style="border-radius: 50%; box-shadow: 0 0 20px #00f7ff;">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Programmer+%7C+Learner;Turning+Ideas+into+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Universe+💙" />
