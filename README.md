@@ -123,7 +123,7 @@
 
 <p align="center">
 <a href="https://github.com/aparana123"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="in/aparana-varshney-23b40b231"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
 </p>
 
