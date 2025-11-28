@@ -1,132 +1,166 @@
-<h1 align="center">✨ नमस्ते, I'm <strong>Aparana</strong>! ✨</h1>
+<!-- HEADER SECTION WITH PROFILE PIC -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00f7ff">Aparana Varshaney</span></h1>
 
 <p align="center">
-💻 <strong>Full-Stack Developer | Python • Java • C/C++ • JavaScript | AI Learner</strong> <br>
-🚀 Passionate About Coding, Problem Solving, and Building Real Projects
+  <!-- PROFILE PIC ADDED HERE -->
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/profile.jpg" 
+       alt="Profile Picture"
+       width="160" 
+       style="border-radius: 50%; box-shadow: 0 0 20px #00f7ff;">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Programmer+%7C+Learner;Turning+Ideas+into+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Universe+💙" />
 </p>
 
 ---
 
-## 🔥 Typing Animation
+<!-- PROFILE BOX -->
+<div align="center" style="border: 2px solid #00f7ff; padding: 25px; border-radius: 12px; box-shadow: 0 0 20px #00f7ff;">
+  
+## 🌟 About Me — Who Am I?
+Hello! I'm **Aparana Varshaney**,  
+a passionate **Frontend Developer, Programmer & Tech Learner** who loves turning imagination into real projects.  
+I enjoy exploring new technologies, writing clean code, and building beautiful UI/UX designs.
+
+✨ *I believe learning never stops.*  
+💙 *Every day I try to improve myself.*
+
+</div>
+
+---
+
+## 🚀 My Goals  
+- Become a **Full Stack Developer**  
+- Master **Java + DSA**  
+- Build powerful **real-world projects**  
+- Learn frameworks like **React, Node.js**  
+- Share knowledge on GitHub regularly  
+
+---
+
+## 🧠 Currently Learning  
+- Java (OOPs + DSA)  
+- Python Programming  
+- MySQL Database  
+- HTML / CSS / JavaScript  
+- Git & GitHub  
+
+---
+
+## 🛠️ Tech Stack & Tools (Detailed)  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Aparana+👋;Full+Stack+Developer+In+Progress;Python+|+Java+|+C+|+C++;Frontend+%2B+Backend+Developer;Always+Learning+New+Stuff!">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,bootstrap,react,figma,postman,tailwind&theme=light" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 👩‍💻 Aspiring **Full-Stack Developer**
-- 🌐 Building projects using **HTML, CSS, JavaScript, Python, Java & PHP**
-- 🧠 Learning **AI, Flask, Node.js, SQL, APIs & Advanced Programming**
-- 🎯 Focus: Clean Code • Problem Solving • Logic Building  
-- 🔥 Goal: Become a Professional Developer + Build Real-World Projects
-
----
-
-# 💻 Tech Stack
-
-### 🖥 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![C](https://img.shields.io/badge/C-00599C?logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![API](https://img.shields.io/badge/REST%20API-blue)
-
-### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-025E8C)
-
-### 🎨 UI/Website Builders  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress)
-![Wix](https://img.shields.io/badge/Wix-000?logo=wix)
-![Duda](https://img.shields.io/badge/Duda-FF5500?logo=duda)
-
-### 🤖 Artificial Intelligence  
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD)
-
----
-
-# 📊 GitHub Stats
-
+## 🎨 Cool Coding Vibes  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=radical" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=radical" height="170">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 12px;">
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📚 My Knowledge Areas (Detailed)
+
+### 💻 **Frontend Development**
+- HTML5 semantic structure  
+- CSS3 animations, flexbox, grid  
+- JavaScript DOM manipulation  
+- Responsive web design  
+- UI/UX basics  
+
+### 🐍 **Python Skills**
+- Loops, conditions  
+- Functions, lists, tuples, dictionary  
+- Pattern programs  
+- Mini projects  
+
+### ☕ **Java Skills**
+- OOP concepts (Inheritance, Polymorphism)  
+- Classes and objects  
+- Constructors, methods  
+- Basic programs  
+
+### 🗄 **Database (MySQL)**
+- DDL, DML commands  
+- Creating tables  
+- Inserting & retrieving data  
+- Joins  
+- Queries practice  
+
+---
+
+## 📈 GitHub Activity & Stats  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aparana123&theme=radical&no-frame=true&margin-w=15">
+  <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aparana123&theme=tokyonight&border_radius=10" height="170"/>
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+## 🔥 Most Used Languages  
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aparana123&theme=react-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Snake Game — My Contribution Eating Snake  
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Featured Projects (Detailed)
+### 🌐 **Amazon UI Clone**
+- HTML + CSS + JS  
+- Complete responsive design  
+- Sections: navbar, product list, footer  
 
-| No. | Project Name | Description | Tech Stack | Link |
-|-----|--------------|-------------|------------|------|
-| 1️⃣ | **Amazon UI Clone** | Frontend clone of Amazon | HTML, CSS, JS | 🔗 GitHub |
-| 2️⃣ | **Python Projects** | Multiple Python mini tools | Python | 🔗 GitHub |
-| 3️⃣ | **Restaurant Billing System** | GUI Billing System | Java Swing/AWT | 🔗 GitHub |
-| 4️⃣ | **Weather App** | Weather finder using API | JS | 🔗 GitHub |
-| 5️⃣ | **Notes Collection** | Python, SQL, JS Notes | All Languages | 🔗 GitHub |
+### 🎬 **Netflix Clone**
+- Trending UI  
+- Hover effects  
+- Clean layout  
 
----
+### 🐍 **Python Mini Projects**
+- Pattern programs  
+- Loops  
+- Basic logic building  
 
-# 📚 Notes & Resources
+### 🧩 **Java Notes & OOP Programs**
+- Classes  
+- Objects  
+- Polymorphism  
+- Inheritance  
 
-| Topic | Link |
-|-------|------|
-| 🐍 Python Notes | 🔗 Link |
-| 🌐 HTML Notes | 🔗 Link |
-| 🎨 CSS Notes | 🔗 Link |
-| ⚙️ C/C++ Notes | 🔗 Link |
-| 🌟 Java Notes | 🔗 Link |
-| 🐬 SQL Notes | 🔗 Link |
-
----
-
-# 🎯 Strengths
-- ✔️ Clean & Readable Code
-- ✔️ Strong Logic Building
-- ✔️ Quick Learner
-- ✔️ Passionate About Coding
-- ✔️ UI/UX Understanding
+### 📘 **MySQL Series**
+- Queries  
+- Full PDF series (coming soon)  
 
 ---
 
-# 📱 Connect With Me
-
+## 🚀 Special Buttons  
 <p align="center">
-<a href="https://github.com/aparana123"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-<a href="in/aparana-varshney-23b40b231"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
+<a href="https://github.com/aparana123">
+  <img src="https://img.shields.io/badge/My%20GitHub%20Profile-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/My%20Projects-FF007F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
 
-<p align="center"><b>Made with ❤️ by Aparana</b></p>
+## 💬 Connect With Me  
+📩 *Need help or want to collaborate? I'm always available!*  
+⭐ *Feel free to drop a message.*
+
+---
+
+<p align="center">
+  💙 **Thanks for visiting my profile! Keep coding & shining!** 💙
+</p>
