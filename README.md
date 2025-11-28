@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- PROFILE PIC ADDED HERE -->
-  <img src=" https://raw.githubusercontent.com/aparana123/Notes/refs/heads/main/images.jfif" 
+  <img src="https://raw.githubusercontent.com/aparana123/Notes/refs/heads/main/images.jfif" 
        alt="Profile Picture"
        width="160" 
        style="border-radius: 50%; box-shadow: 0 0 20px #00f7ff;">
