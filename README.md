@@ -109,8 +109,9 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 ## 🐍 Snake Game — My Contribution Eating Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/static-assets/master/matrix.gif" width="600">
 </p>
+
 
 ---
 
