@@ -109,10 +109,8 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 ## 🐍 Snake Game — My Contribution Eating Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg">
+  <img src="https://github.com/skyline-emu/skyline/blob/master/.github/assets/banner.png" width="600">
 </p>
-
-
 
 ---
 
