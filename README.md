@@ -94,9 +94,11 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
   
 ## 📈 GitHub Activity & Stats  
 <p align="center">
-  <!-- Placeholder for GitHub Stats -->
-  <img src="https://placehold.co/300x170?text=GitHub+Stats" height="170"/>
-  <img src="https://placehold.co/300x170?text=Streak+Stats" height="170"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=radical&border_radius=10" height="170"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparana123&theme=radical&border_radius=10" height="170"/>
 </p>
 ---
 
