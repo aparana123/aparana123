@@ -101,8 +101,10 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 ## 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
+  <!-- Placeholder image for most used languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=light" width="350" />
 </p>
+
 ---
 
 ## 🐍 Snake Game — My Contribution Eating Snake  
