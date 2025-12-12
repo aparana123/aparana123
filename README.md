@@ -97,14 +97,12 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
   <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aparana123&theme=tokyonight&border_radius=10" height="170"/>
 </p>
-
 ---
 
 ## 🔥 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
 </p>
-
 ---
 
 ## 🐍 Snake Game — My Contribution Eating Snake  
