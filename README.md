@@ -1,165 +1,185 @@
-<!-- HEADER SECTION WITH PROFILE PIC -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00f7ff">Aparana Varshaney</span></h1>
+<!-- 🔥 GLOW + FADE-IN PROFILE WITH ANIMATION -->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <b>नमस्ते, I'm Aparana Varshney!</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+</h1>
 
 <p align="center">
-  <!-- PROFILE PIC ADDED HERE -->
-  <img src="https://raw.githubusercontent.com/aparana123/Notes/refs/heads/main/images.jfif" 
-       alt="Profile Picture"
-       width="160" 
-       style="border-radius: 50%; box-shadow: 0 0 20px #00f7ff;">
+  <em>
+    💻 Frontend Developer + Java/Python Learner <br>
+    🎨 UI/UX Enthusiast | ✨ Creative Coder | 🚀 Growth Mindset
+  </em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Programmer+%7C+Learner;Turning+Ideas+into+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Universe+💙" />
+<p align="center" style="margin-top: 20px;">
+
+ <!-- Email Badge -->
+<a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer" title="Email Me" style="margin: 0 10px; display: inline-block;">
+  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+</a>
+
+<!-- GitHub Followers Badge -->
+<a href="https://github.com/aparana123" target="_blank" rel="noopener noreferrer" title="GitHub Profile" style="margin: 0 10px; display: inline-block;">
+  <img src="https://img.shields.io/github/followers/aparana123?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" height="40"/>
+</a>
+
+<!-- GitHub Profile Views Counter -->
+<a href="https://github.com/aparana123" target="_blank" rel="noopener noreferrer" title="GitHub Views" style="margin: 0 10px; display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=aparana123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" height="40"/>
+</a>
+
+
+  <a href="https://www.linkedin.com/in/your-link-here/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
 </p>
 
----
 
-<!-- PROFILE BOX -->
-<div align="center" style="border: 2px solid #00f7ff; padding: 25px; border-radius: 12px; box-shadow: 0 0 20px #00f7ff;">
-  
-## 🌟 About Me — Who Am I?
-Hello! I'm **Aparana Varshaney**,  
-a passionate **Frontend Developer, Programmer & Tech Learner** who loves turning imagination into real projects.  
-I enjoy exploring new technologies, writing clean code, and building beautiful UI/UX designs.
+<div align="center" style="font-family: 'Fira Code', monospace; margin-top: 30px;">
 
-✨ *I believe learning never stops.*  
-💙 *Every day I try to improve myself.*
+  <!-- ZERO to HERO banner -->
+  <h2 style="color: #00FFAA; text-shadow: 0 0 12px #00FFAA, 0 0 24px #00FFAA; margin-bottom: 5px; letter-spacing: 3px;">
+    ZERO to <span style="color:#FF416C; text-shadow: 0 0 10px #FF416C, 0 0 20px #FF416C;">HERO</span> CODE
+  </h2>
+
+  <!-- StartTheCode tagline -->
+  <p style="font-size: 18px; color: #CCCCCC; margin-top: 0; font-weight: 600; letter-spacing: 1.5px; margin-bottom: 25px;">
+    🔥 <span style="color:#FFDC00;">StartTheCode</span> &nbsp;&mdash;&nbsp; Code. Build. Grow. Repeat. 🚀
+  </p>
+
+  <!-- Typing animated skills -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF66CC,00FFFF,FFD700&center=true&vCenter=true&width=780&lines=🌸+Frontend+Developer;💻+Java+%7C+Python+Learner;🎨+HTML+%7C+CSS+%7C+JavaScript;📚+Teaching+%26+Notes+Creator;🚀+Future+Full+Stack+Developer;✨+Zero+to+Hero+Journey" alt="Typing SVG"/>
+</div>
 
 </div>
 
 ---
 
-## 🚀 My Goals  
-- Become a **Full Stack Developer**  
-- Master **Java + DSA**  
-- Build powerful **real-world projects**  
-- Learn frameworks like **React, Node.js**  
-- Share knowledge on GitHub regularly  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aparana123/Notes/refs/heads/main/images.jfif" width="400" alt="Profile Picture"/>
+</p>
 
 ---
 
-## 🧠 Currently Learning  
-- Java (OOPs + DSA)  
-- Python Programming  
-- MySQL Database  
-- HTML / CSS / JavaScript  
+# 🚀 About Me
+
+## 👋 Hey, I'm **Aparana**  
+Dedicated learner, passionate coder & frontend designer creating beautiful and interactive UI.
+
+---
+
+### 💻 Tech Stack  
+- HTML, CSS, JS  
+- Python  
+- Java  
+- MySQL  
+- UI/UX Design  
 - Git & GitHub  
 
 ---
 
-## 🛠️ Tech Stack & Tools (Detailed)  
+### 🔥 Projects
+
+| #   | Project Name          | Description                              | GitHub Link                                                                             |
+| --- | --------------------- | -------------------------------------- | --------------------------------------------------------------------------------------- |
+| 1️⃣  | 🌐 Portfolio Website | Personal portfolio with animations     | [GitHub](https://github.com/aparana123)                                               |
+| 2️⃣  | 📝 Notes Collection  | All programming notes in one repo       | [GitHub](https://github.com/aparana123/Notes)                                        |
+| 3️⃣  | 🎮 Python Mini Games | Simple Python-based games               | Coming Soon…                                                                            |
+| 4️⃣  | 📚 HTML/CSS Projects | Beginner-friendly UI projects          | [GitHub](https://github.com/aparana123)                                               |
+
+---
+
+### 📚 Notes & Resources
+
+| Topic                   | Link                                                                                      |
+| ----------------------- | ----------------------------------------------------------------------------------------- |
+| 🐍 Python Notes | Coming Soon… |
+| 📊 Java Notes | Coming Soon… |
+| 🌐 HTML/CSS Notes | [HTML/CSS Notes](https://github.com/aparana123) |
+
+---
+
+### 🎯 Hobbies & Interests
+
+- 🎨 UI/UX Designing  
+- 💻 Coding  
+- 🎧 Music  
+- ✨ Learning New Things  
+
+---
+
+### 📱 Connect with Me
+
+- 📧 Email: your-email@example.com  
+- 🔗 LinkedIn: your-link-here  
+- 🌍 GitHub: [github.com/aparana123](https://github.com/aparana123)
+
+---
+
+<div align="center">
+
+  <!-- Title -->
+  <h3>🔥 My Contribution Activity 🔥</h3>
+
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aparana123&theme=react-dark&area=true&custom_title=My%20Activity%20Graph" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,bootstrap,react,figma,postman,tailwind&theme=light" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aparana123&theme=algolia&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-## 🎨 Cool Coding Vibes  
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=tokyonight&hide_border=true"
+    width="38%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aparana123&theme=tokyonight&hide_border=true&border_radius=12"
+    width="46%"
+  />
+</div>
+
+---
+
+## 🐍 My Snake Contribution Graph  
+(⚠️ Tumne bola snake ko मत हटाना — so I kept it safe!)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 12px;">
+  <img src="https://github.com/aparana123/aparana123/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 📚 My Knowledge Areas (Detailed)
+## 🌐 Connect With Me
 
-### 💻 **Frontend Development**
-- HTML5 semantic structure  
-- CSS3 animations, flexbox, grid  
-- JavaScript DOM manipulation  
-- Responsive web design  
-- UI/UX basics  
-
-### 🐍 **Python Skills**
-- Loops, conditions  
-- Functions, lists, tuples, dictionary  
-- Pattern programs  
-- Mini projects  
-
-### ☕ **Java Skills**
-- OOP concepts (Inheritance, Polymorphism)  
-- Classes and objects  
-- Constructors, methods  
-- Basic programs  
-
-### 🗄 **Database (MySQL)**
-- DDL, DML commands  
-- Creating tables  
-- Inserting & retrieving data  
-- Joins  
-- Queries practice  
-
----
-
-## 📈 GitHub Activity & Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aparana123&theme=tokyonight&border_radius=10" height="170"/>
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/your-link-here/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
-## 🔥 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
-</p>
-
----
-
-## 🐍 Snake Game — My Contribution Eating Snake  
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
-
----
-
-# 📂 Featured Projects (Detailed)
-### 🌐 **Amazon UI Clone**
-- HTML + CSS + JS  
-- Complete responsive design  
-- Sections: navbar, product list, footer  
-
-### 🎬 **Netflix Clone**
-- Trending UI  
-- Hover effects  
-- Clean layout  
-
-### 🐍 **Python Mini Projects**
-- Pattern programs  
-- Loops  
-- Basic logic building  
-
-### 🧩 **Java Notes & OOP Programs**
-- Classes  
-- Objects  
-- Polymorphism  
-- Inheritance  
-
-### 📘 **MySQL Series**
-- Queries  
-- Full PDF series (coming soon)  
-
----
-
-## 🚀 Special Buttons  
-<p align="center">
-<a href="https://github.com/aparana123">
-  <img src="https://img.shields.io/badge/My%20GitHub%20Profile-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/My%20Projects-FF007F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
----
-
-## 💬 Connect With Me  
-📩 *Need help or want to collaborate? I'm always available!*  
-⭐ *Feel free to drop a message.*
-
----
-
-<p align="center">
-  💙 **Thanks for visiting my profile! Keep coding & shining!** 💙
-</p>
-
