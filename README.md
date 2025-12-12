@@ -55,16 +55,16 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 ---
 
-## 🎨 Cool Coding Vibes  
-## 🎀 Coding Vibes ✨
+## 👩‍💻 Coding Girl Vibes 🌸
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300" style="border-radius: 15px;" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="300" style="border-radius: 15px; margin-right:10px;" />
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300" style="border-radius: 15px;" />
 </p>
 
 <p align="center" style="font-size: 16px; color: #FF69B4;">
-  💖 Code with passion, 💻 create with love, 🌸 and make everything sparkle ✨
+  💖 Code with style, 💻 debug with grace, 🌸 and make the world sparkle ✨
 </p>
+
 
 
 ---
