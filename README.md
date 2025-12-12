@@ -57,7 +57,7 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 ## 👩‍💻 Coding Girl Vibes 🌸
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350" style="border-radius: 12px;">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 12px;">
 </p>
 
 
