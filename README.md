@@ -94,8 +94,8 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 ## 📈 GitHub Activity & Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aparana123&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&border_radius=10"height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aparana123&theme=tokyonight&border_radius=10"height="170"/>
 </p>
 ---
 
