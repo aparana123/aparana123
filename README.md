@@ -132,6 +132,7 @@ I love turning ideas into clean, functional, and beautiful web experiences. I'm 
 | 🧩 **Java Notes & OOP Programs** | Collection of Java fundamentals — classes, objects, inheritance, polymorphism | `Java` |
 | 🐍 **Python Mini Projects** | Pattern programs, loops, and logic-building exercises | `Python` |
 | 📘 **MySQL Query Series** | Practice queries and notes (full PDF series coming soon) | `MySQL` |
+| 🧩 **java Projects** | Automatic teller Machine using awt swing and database my sql , and logic-building| `java` |
 
 <br>
 
