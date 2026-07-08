@@ -164,4 +164,4 @@ I'm always open to collaborating, learning together, or just chatting about code
 
 ---
 
-<p align="center">💙 Thanks for visiting my profile — keep coding & shining! 💙</p>
+<p align="center">💙 Thanks for visiting my profile — keep coding & shining! 💙</p> 
