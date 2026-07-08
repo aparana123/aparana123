@@ -37,7 +37,7 @@ I love turning ideas into clean, functional, and beautiful web experiences. I'm 
 
 ## 🎯 Goals
 
-- 🚀 Become a **Full Stack Developer**
+- 🚀 Become a **Software Developer**
 - 🧩 Master **Java + Data Structures & Algorithms**
 - 🛠️ Build powerful, real-world projects
 - ⚛️ Get fluent in **React** and **Node.js**
