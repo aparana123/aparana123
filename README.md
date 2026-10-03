@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aparana123/aparana123/main/images/hacker.jpg" alt="Aparana Varshaney" width="200" height="200" style="border-radius: 50%; box-shadow: 0 0 30px #ff2bd6, 0 0 60px #00f7ff55; object-fit: cover;">
+<img src="https://raw.githubusercontent.com/aparana123/aparana123//main/hacker.jpg alt="Aparana Varshaney" width="200" height="200" style="border-radius: 50%; box-shadow: 0 0 30px #ff2bd6, 0 0 60px #00f7ff55; object-fit: cover;">
 
 # Hi, I'm Aparana Varshaney 👋
 
