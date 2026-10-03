@@ -71,7 +71,8 @@ I'm a quick learner, problem solver, and collaborative team member. I'm open to 
 
 | | |
 |---|---|
-| 🎓 **BCA** (2024) | Raja Mahendra Pratap Singh University |
+| 🎓 **Bachelors** (2024) | Aligarh Muslim University |
+| 📘 **Diploma** | Web Designing and Publishing, Aligarh Muslim University |
 | 📜 **Certifications** | Web Designing · Java Programming · Frontend Development |
 
 <br>
