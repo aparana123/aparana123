@@ -218,14 +218,6 @@ Hands-on learning in:
   <img src="https://ghchart.rshah.org/00f7ff/aparana123" alt="Contribution graph" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aparana123&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity%20Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aparana123&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
 <br>
 
 ## 🐍 Contribution Snake
