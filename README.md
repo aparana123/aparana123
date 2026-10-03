@@ -7,7 +7,7 @@
 ### Programming Engineer @ Bonson Institute of Information Technology
 🔐 Cybersecurity · SOC · SIEM · Log Analysis · Threat Detection · Git/GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Programming+Engineer+%7C+MCA+Student;Cybersecurity+%7C+SOC+%7C+SIEM+%7C+Threat+Detection;Software+Development+%7C+Data+Analytics+%7C+AI%2FML;Welcome+to+My+GitHub+Universe+%F0%9F%92%99" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Programming+Engineer+%7C+Problem+Solver;Cybersecurity+%7C+SOC+%7C+SIEM+%7C+Threat+Detection;Software+Development+%7C+Data+Analytics+%7C+AI%2FML;Welcome+to+My+GitHub+Universe+%F0%9F%92%99" alt="Typing animation" />
 
 <p>
   <a href="https://github.com/aparana123"><img src="https://img.shields.io/badge/My%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -24,6 +24,7 @@
 <p>
   <a href="#-about-me">About</a> ·
   <a href="#-education--certifications">Education</a> ·
+  <a href="#-achievements--learning">Achievements</a> ·
   <a href="#%EF%B8%8F-tech-stack">Stack</a> ·
   <a href="#-featured-projects">Projects</a> ·
   <a href="#-github-stats">Stats</a> ·
@@ -40,7 +41,6 @@
 class AparanaVarshaney:
     def __init__(self):
         self.role      = "Programming Engineer @ Bonson Institute of Information Technology"
-        self.studying  = "MCA @ Mangalayatan University"
         self.focus     = ["Software Development", "Cybersecurity (SOC | SIEM)", "Data Analytics", "AI/ML"]
         self.location  = "India 🇮🇳"
         self.motto     = "Learning never stops."
@@ -49,7 +49,7 @@ class AparanaVarshaney:
         print("Thanks for stopping by — let's build something great! 💙")
 ```
 
-I'm a **Programming Engineer** pursuing an **MCA from Mangalayatan University**, with a strong foundation in **Software Development, Web Technologies, Data Analytics, AI/ML, and Cybersecurity**. I focus on building practical solutions, solving technical problems, and continuously expanding my expertise across emerging technologies.
+I'm a **Programming Engineer** with a strong foundation in **Software Development, Web Technologies, Data Analytics, AI/ML, and Cybersecurity**. I focus on building practical solutions, solving technical problems, and continuously expanding my expertise across emerging technologies.
 
 I'm a quick learner, problem solver, and collaborative team member. I'm open to opportunities that offer meaningful challenges, professional growth, and the chance to contribute to innovative, technology-driven projects.
 
@@ -60,9 +60,8 @@ I'm a quick learner, problem solver, and collaborative team member. I'm open to 
 | | |
 |---|---|
 | 💼 **Working as** | Programming Engineer @ Bonson Institute of Information Technology |
-| 🎓 **Studying** | MCA @ Mangalayatan University |
 | 🔐 **Cybersecurity** | SOC operations, SIEM, log analysis, threat detection, incident response, CTI |
-| 🧪 **Practice** | Hands-on cybersecurity labs on TryHackMe |
+| 🧪 **Practice** | Hands-on cybersecurity labs on TryHackMe, with a 50+ day streak |
 | 🤝 **Open to** | Meaningful challenges, collaboration and growth-focused roles |
 | 📫 **Reach me** | [aparana.varshney@gmail.com](mailto:aparana.varshney@gmail.com) |
 
@@ -72,9 +71,24 @@ I'm a quick learner, problem solver, and collaborative team member. I'm open to 
 
 | | |
 |---|---|
-| 🎓 **MCA** (pursuing) | Mangalayatan University |
 | 🎓 **BCA** (2024) | Raja Mahendra Pratap Singh University |
 | 📜 **Certifications** | Web Designing · Java Programming · Frontend Development |
+
+<br>
+
+## 🏆 Achievements & Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/TryHackMe-50%2B%20Day%20Streak-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Module%20Completed-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-20%20Hour%20Cybersecurity%20Module-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+| | Achievement | Details |
+|---|---|---|
+| 🔥 | **TryHackMe: 50+ day streak** | Learning cybersecurity consistently through hands-on labs, every day |
+| ✅ | **Cisco Cybersecurity module** | Completed |
+| ☁️ | **AWS Cybersecurity module** | Completed a 20-hour course on cybersecurity |
 
 <br>
 
@@ -133,7 +147,8 @@ Hands-on learning in:
 - 🕵️ **Threat Detection**: spotting suspicious behaviour early
 - 🚨 **Incident Response**: containing and investigating incidents
 - 🌐 **Cyber Threat Intelligence**: understanding attackers and their techniques
-- 🧪 **Practical labs**: continuous learning through **TryHackMe**
+- 🧪 **Practical labs**: continuous learning through **TryHackMe** (50+ day streak 🔥)
+- 🎓 **Structured learning**: Cisco Cybersecurity module and AWS 20-hour Cybersecurity module, both completed
 
 <br>
 
@@ -180,7 +195,8 @@ Hands-on learning in:
 - SOC operations and SIEM tooling
 - Log analysis and threat detection
 - Incident response and cyber threat intelligence
-- Practical labs on TryHackMe
+- Practical labs on TryHackMe (50+ day streak)
+- Cisco Cybersecurity module and AWS Cybersecurity module (20 hours) completed
 
 </details>
 
