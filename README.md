@@ -261,4 +261,4 @@ I'm open to opportunities that offer meaningful challenges, professional growth,
 
 ---
 
-<p align="center">💙 Thanks for visiting my profile — keep coding & shining! 💙</p>
+<p align="center">💙 Thanks for visiting my profile — keep coding & shining! 💙</p>   
