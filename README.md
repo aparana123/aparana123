@@ -4,7 +4,7 @@
  
 # Hi, I'm Aparana Varshaney 👋
 
-### Programming Engineer @ Bonson Institute of Information Technology
+### Programming Engineer @ Bonson Institute of Information Technology   
 🔐 Cybersecurity · SOC · SIEM · Log Analysis · Threat Detection · Git/GitHub
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Programming+Engineer+%7C+Problem+Solver;Cybersecurity+%7C+SOC+%7C+SIEM+%7C+Threat+Detection;Software+Development+%7C+Data+Analytics+%7C+AI%2FML;Welcome+to+My+GitHub+Universe+%F0%9F%92%99" alt="Typing animation" />
