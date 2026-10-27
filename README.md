@@ -148,7 +148,7 @@ Hands-on learning in:
 - 🕵️ **Threat Detection**: spotting suspicious behaviour early
 - 🚨 **Incident Response**: containing and investigating incidents
 - 🌐 **Cyber Threat Intelligence**: understanding attackers and their techniques
-- 🧪 **Practical labs**: continuous learning through **TryHackMe** (50+ day streak 🔥)
+- 🧪 **Practical labs**: continuous learning through **TryHackMe** (80+ day streak 🔥)
 - 🎓 **Structured learning**: Cisco Cybersecurity module and AWS 20-hour Cybersecurity module, both completed
 
 <br>
@@ -196,7 +196,7 @@ Hands-on learning in:
 - SOC operations and SIEM tooling
 - Log analysis and threat detection
 - Incident response and cyber threat intelligence
-- Practical labs on TryHackMe (50+ day streak)
+- Practical labs on TryHackMe (80+ day streak)
 - Cisco Cybersecurity module and AWS Cybersecurity module (20 hours) completed
 
 </details>
