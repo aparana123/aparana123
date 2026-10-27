@@ -87,7 +87,7 @@ I'm a quick learner, problem solver, and collaborative team member. I'm open to 
 
 | | Achievement | Details |
 |---|---|---|
-| 🔥 | **TryHackMe: 50+ day streak** | Learning cybersecurity consistently through hands-on labs, every day |
+| 🔥 | **TryHackMe: 80+ day streak** | Learning cybersecurity consistently through hands-on labs, every day |
 | ✅ | **Cisco Cybersecurity module** | Completed |
 | ☁️ | **AWS Cybersecurity module** | Completed a 20-hour course on cybersecurity |
 
