@@ -47,7 +47,7 @@ class AparanaVarshaney:
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something great! 💙")
-```
+``` 
 
 I'm a **Programming Engineer** with a strong foundation in **Software Development, Web Technologies, Data Analytics, AI/ML, and Cybersecurity**. I focus on building practical solutions, solving technical problems, and continuously expanding my expertise across emerging technologies.
 
