@@ -61,7 +61,7 @@ I'm a quick learner, problem solver, and collaborative team member. I'm open to 
 |---|---|
 | 💼 **Working as** | Programming Engineer @ Bonson Institute of Information Technology |
 | 🔐 **Cybersecurity** | SOC operations, SIEM, log analysis, threat detection, incident response, CTI |
-| 🧪 **Practice** | Hands-on cybersecurity labs on TryHackMe, with a 90+ day streak |
+| 🧪 **Practice** | Hands-on cybersecurity labs on TryHackMe, with a 100+ day streak |
 | 🤝 **Open to** | Meaningful challenges, collaboration and growth-focused roles |
 | 📫 **Reach me** | [aparana.varshney@gmail.com](mailto:aparana.varshney@gmail.com) |
 
@@ -148,7 +148,7 @@ Hands-on learning in:
 - 🕵️ **Threat Detection**: spotting suspicious behaviour early
 - 🚨 **Incident Response**: containing and investigating incidents
 - 🌐 **Cyber Threat Intelligence**: understanding attackers and their techniques
-- 🧪 **Practical labs**: continuous learning through **TryHackMe** (90+ day streak 🔥)
+- 🧪 **Practical labs**: continuous learning through **TryHackMe** (100+ day streak 🔥)
 - 🎓 **Structured learning**: Cisco Cybersecurity module and AWS 20-hour Cybersecurity module, both completed
 
 <br>
@@ -196,7 +196,7 @@ Hands-on learning in:
 - SOC operations and SIEM tooling
 - Log analysis and threat detection
 - Incident response and cyber threat intelligence
-- Practical labs on TryHackMe (90+ day streak)
+- Practical labs on TryHackMe (100+ day streak)
 - Cisco Cybersecurity module and AWS Cybersecurity module (20 hours) completed
 
 </details>
